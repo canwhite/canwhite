@@ -1,5 +1,5 @@
 
-### 来看看呀，欢迎哦 👋
+### Come take a look, welcome 👋
 
 ![info](https://github-readme-stats.vercel.app/api?username=canwhite&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
