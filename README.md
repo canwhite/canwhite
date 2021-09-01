@@ -1,8 +1,10 @@
-### Hi there 👋
+
+### 来看看呀，欢迎哦 👋
+
+![info](https://github-readme-stats.vercel.app/api?username=canwhite&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 
 <!--
-**canwhite/canwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
