@@ -6,8 +6,6 @@
 
 构建智能系统 · 探索 AI Agent · 突破技术边界
 
----
-
 </div>
 
 ## 🚀 Featured
@@ -16,15 +14,11 @@
 
 `⚡ Next.js` `🔧 Go` `⛓️ Hyperledger Fabric`
 
----
-
 ## 🤖 AI & Agent
 
 **[✅ wkagent-pure](https://github.com/canwhite/wkagent-pure)** · `Agent` `Next.js` · 三层记忆 · 智能分析 ·
 
 **[📚 agentic-ai](https://github.com/canwhite/agentic-ai)** · `Workflow` `AI` · 反思 · 工具使用 ·
-
----
 
 ## 🛠️ Claude Code 生态
 
@@ -35,8 +29,6 @@
 **[🔌 cc-communication](https://github.com/canwhite/cc-communication)** · `WebSocket` `Comm` · 双向传输 ·
 
 **[🔗 cc-joint-test](https://github.com/canwhite/cc-joint-test)** · `Example` · 集成示例 ·
-
----
 
 ## 🧠 LLM & Deep Learning
 
@@ -52,8 +44,6 @@
 
 **[🎭 qc-digital-human](https://github.com/canwhite/qc-digital-human)** · `Digital` `AI` · 数字人 ·
 
----
-
 ## 📐 开发工具
 
 **[📋 SimpleSpec](https://github.com/canwhite/SimpleSpec)** · `Claude Code` `Config` · 自动化配置 · S.P.A.R 框架 ·
@@ -66,8 +56,6 @@
 
 **[🎯 PopView](https://github.com/canwhite/QCPopView)** · `iOS` `Obj-C` · 多选框组件 ·
 
----
-
 ## 📱 移动开发
 
 **[🍎 qc_ios_framework](https://github.com/canwhite/qc_ios_framework)** · `iOS` `Obj-C` · Navigation + MMKV ·
@@ -76,8 +64,6 @@
 
 **[🎨 qc_flutter_framework](https://github.com/canwhite/qc_flutter_framework)** · `Flutter` `Cross` · 跨平台框架 ·
 
----
-
 ## 🔗 Web3 & Blockchain
 
 **[👜 qc_wallet_extension](https://github.com/canwhite/qc_wallet_extension)** · `Wallet` `Ext` · 浏览器插件 ·
@@ -85,8 +71,6 @@
 **[💰 qc_web3_wallet](https://github.com/canwhite/qc_web3_wallet)** · `Web3` `Wallet` · 钱包应用 ·
 
 **[⛓️ blockchain-go](https://github.com/canwhite/blockchain-go)** · `Go` `Chain` · 区块链实现 ·
-
----
 
 <div align="center">
 
