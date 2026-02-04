@@ -18,6 +18,8 @@
 
 **[✅ wkagent-pure](https://github.com/canwhite/wkagent-pure)** · `Agent` `Next.js` · 三层记忆 · 智能分析 ·
 
+**[🎯 Krebs](https://github.com/canwhite/Krebs)** · `Agent` `Gateway` · 模块化框架 · 职责分离 ·
+
 **[📚 agentic-ai](https://github.com/canwhite/agentic-ai)** · `Workflow` `AI` · 反思 · 工具使用 ·
 
 ## 🛠️ Claude Code 生态
