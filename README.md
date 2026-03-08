@@ -14,6 +14,8 @@
 
 `⚡ Next.js` `🔧 Go` `⛓️ Hyperledger Fabric`
 
+**[novel_gpt](https://github.com/canwhite/novel_gpt)** · `GPT` `PyTorch` `MPS` · 小规模 Transformer · 小说生成 · Apple Silicon 优化 ·
+
 ## 🤖 AI & Agent
 
 **[✅ wkagent-pure](https://github.com/canwhite/wkagent-pure)** · `Agent` `Next.js` · 三层记忆 · 智能分析 ·
