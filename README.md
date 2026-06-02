@@ -10,13 +10,7 @@
 
 ## 🚀 Featured
 
-**[ProNovel](https://pronovel.cc/)** 智能小说创作平台 · AI 驱动的内容生态系统 · Token 经济模型 · USDT 支付
-
-`⚡ Next.js` `🔧 Go` `⛓️ Hyperledger Fabric`
-
-**Downloads**: [v1.0.3](https://github.com/canwhite/ProNovel/releases/tag/v1.0.3) · [v1.0.2](https://github.com/canwhite/ProNovel/releases/tag/v1.0.2) · [v1.0.1](https://github.com/canwhite/ProNovel/releases/tag/v1.0.1) · [v1.0.0](https://github.com/canwhite/ProNovel/releases/tag/v1.0.0)
-
-`🐧 Linux` `🍎 macOS` `🪟 Windows`
+**[ProNovel](https://pronovel.cc/)** 智能小说创作平台 · AI 驱动 · Token 经济 · USDT 支付 · `⚡ Next.js` `🔧 Go` `⛓️ Fabric` · [v1.0.3](https://github.com/canwhite/ProNovel/releases/tag/v1.0.3) `🐧` `🍎` `🪟`
 
 **[novel_gpt](https://github.com/canwhite/novel_gpt)** · `GPT` `PyTorch` `MPS` · 小规模 Transformer · 小说生成 · Apple Silicon 优化 ·
 
