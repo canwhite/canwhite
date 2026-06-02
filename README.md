@@ -14,6 +14,10 @@
 
 `⚡ Next.js` `🔧 Go` `⛓️ Hyperledger Fabric`
 
+**Downloads**: [v1.0.3](https://github.com/canwhite/ProNovel/releases/tag/v1.0.3) · [v1.0.2](https://github.com/canwhite/ProNovel/releases/tag/v1.0.2) · [v1.0.1](https://github.com/canwhite/ProNovel/releases/tag/v1.0.1) · [v1.0.0](https://github.com/canwhite/ProNovel/releases/tag/v1.0.0)
+
+`🐧 Linux` `🍎 macOS` `🪟 Windows`
+
 **[novel_gpt](https://github.com/canwhite/novel_gpt)** · `GPT` `PyTorch` `MPS` · 小规模 Transformer · 小说生成 · Apple Silicon 优化 ·
 
 ## 🤖 AI & Agent
@@ -23,6 +27,10 @@
 **[🎯 Krebs](https://github.com/canwhite/Krebs)** · `Agent` `Gateway` · 模块化框架 · 职责分离 ·
 
 **[📚 agentic-ai](https://github.com/canwhite/agentic-ai)** · `Workflow` `AI` · 反思 · 工具使用 ·
+
+**[🔬 AgentEval](https://github.com/canwhite/AgentEval)** · `Agent` `Eval` · Agent 评测框架 ·
+
+**[📦 Sandbox](https://github.com/canwhite/Sandbox)** · `Lua` `Security` · 隔离 VM · 安全的 Rust 函数暴露 ·
 
 ## 🛠️ Claude Code 生态
 
@@ -58,7 +66,9 @@
 
 **[⚡ frer](https://github.com/canwhite/frer)** · `Tools` · 快速开发工具集 ·
 
-**[🎯 PopView](https://github.com/canwhite/QCPopView)** · `iOS` `Obj-C` · 多选框组件 ·
+**[🌙 lua-promise](https://github.com/canwhite/lua-promise)** · `Lua` `libuv` · JS风格Promise实现 · 异步编程 ·
+
+**[⚡ easy](https://github.com/canwhite/easy)** · `Go` · slices/maps 工具库 · Filter · Map · Reduce ·
 
 ## 📱 移动开发
 
