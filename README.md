@@ -10,7 +10,9 @@
 
 ## 🚀 Featured
 
-**[ProNovel](https://pronovel.cc/)** 智能小说创作平台 · AI 驱动 · Token 经济 · USDT 支付 · `⚡ Next.js` `🔧 Go` `⛓️ Fabric` · [v1.0.3](https://github.com/canwhite/ProNovel/releases/tag/v1.0.3) `🐧` `🍎` `🪟`
+**[ProNovel](https://pronovel.cc/)** 智能小说创作平台 · AI 驱动 · Token 经济 · USDT 支付 · `⚡ Next.js` `🔧 Go` `⛓️ Fabric`
+
+**Download** · [v1.0.3](https://github.com/canwhite/ProNovel/releases/tag/v1.0.3) · `🐧 Linux` `🍎 macOS` `🪟 Windows`
 
 **[novel_gpt](https://github.com/canwhite/novel_gpt)** · `GPT` `PyTorch` `MPS` · 小规模 Transformer · 小说生成 · Apple Silicon 优化 ·
 
@@ -58,7 +60,7 @@
 
 **[⚡ frer](https://github.com/canwhite/frer)** · `Tools` · 快速开发工具集 ·
 
-**[🌙 lua-promise](https://github.com/canwhite/lua-promise)** · `Lua` `libuv` · JS风格Promise实现 · 异步编程 ·
+**[🌙 lua-promise](https://github.com/canwhite/lua-promise)** · `Lua` `libuv` · JS风格Promise实现 · 异步编程 · v1.0.3 `🐧` `🍎` `🪟` · [Download](https://github.com/canwhite/lua-promise/releases)
 
 **[⚡ easy](https://github.com/canwhite/easy)** · `Go` · slices/maps 工具库 · Filter · Map · Reduce ·
 
