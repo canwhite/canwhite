@@ -60,7 +60,7 @@
 
 **[⚡ frer](https://github.com/canwhite/frer)** · `Tools` · 快速开发工具集 ·
 
-**[🌙 lua-promise](https://github.com/canwhite/lua-promise)** · `Lua` `libuv` · JS风格Promise实现 · 异步编程 · v1.0.3 `🐧` `🍎` `🪟` · [Download](https://github.com/canwhite/lua-promise/releases)
+**[🌙 lua-promise](https://github.com/canwhite/lua-promise)** · `Lua` `libuv` · JS风格Promise实现 · 异步编程 ·
 
 **[⚡ easy](https://github.com/canwhite/easy)** · `Go` · slices/maps 工具库 · Filter · Map · Reduce ·
 
