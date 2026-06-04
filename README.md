@@ -2,7 +2,7 @@
 
 # 👋 Zack
 
-**全栈builder · AI 探索者 · 开源贡献者**
+**全栈Builder · AI 探索者 · 开源贡献者**
 
 构建智能系统 · 探索 AI Agent · 突破技术边界
 
