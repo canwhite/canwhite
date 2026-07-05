@@ -29,14 +29,14 @@ canwhite/
 ```
 
 ## 项目分类
-1. **近期工作** - pronovel智能小说平台
-2. **Agent** - wkagent-pure, agentic-ai
-3. **Claude Code三件套** - cc-session, cc-json-parser, cc-communication
-4. **LLM** - happy-llm-simple, qc-torch-study等
-5. **Spec Driven** - SimpleSpec
+1. **Featured** - ProNovel, novel_gpt
+2. **Agent** - Krebs, AgentEval, Sandbox
+3. **Claude Code生态** - SimpleSpec, cc-session, cc-json-parser, cc-communication, cc-joint-test
+4. **LLM** - happy-llm-simple, qc-torch-study, qc_fine_tuning, langchain_deepseek, qc_notebooklm
+5. **AI应用** - qc-digital-human
 6. **iOS/Android** - 移动端框架
 7. **Web3** - 钱包和区块链
-8. **Infrastructures** - bun-php, frer等
+8. **Infrastructures** - bff-store, frer等
 
 ## 部署流程
 - 直接推送到GitHub main分支

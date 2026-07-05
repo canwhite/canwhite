@@ -20,13 +20,15 @@
 
 **[🎯 Krebs](https://github.com/canwhite/Krebs)** · `Agent` `Gateway` · 模块化框架 · 职责分离 ·
 
-**[📚 agentic-ai](https://github.com/canwhite/agentic-ai)** · `Workflow` `AI` · 反思 · 工具使用 ·
-
 **[🔬 AgentEval](https://github.com/canwhite/AgentEval)** · `Agent` `Eval` · Agent 评测框架 ·
 
 **[📦 Sandbox](https://github.com/canwhite/Sandbox)** · `Lua` `Security` · 隔离 VM · 安全的 Rust 函数暴露 ·
 
+**[🎭 qc-digital-human](https://github.com/canwhite/qc-digital-human)** · `Digital` `AI` · 数字人 ·
+
 ## 🛠️ Claude Code 生态
+
+**[📋 SimpleSpec](https://github.com/canwhite/SimpleSpec)** · `Claude Code` `Config` · 自动化配置 · S.P.A.R 框架 ·
 
 **[💬 cc-session](https://github.com/canwhite/cc-session)** · `Session` `TypeScript` · 会话管理 · 流式传输 ·
 
@@ -48,13 +50,9 @@
 
 **[📓 qc_notebooklm](https://github.com/canwhite/qc_notebooklm)** · `NotebookLM` `RAG` · 文档问答 ·
 
-**[🎭 qc-digital-human](https://github.com/canwhite/qc-digital-human)** · `Digital` `AI` · 数字人 ·
+## ⚙️ 工具集
 
-## 📐 开发工具
-
-**[📋 SimpleSpec](https://github.com/canwhite/SimpleSpec)** · `Claude Code` `Config` · 自动化配置 · S.P.A.R 框架 ·
-
-**[🚀 bun-php](https://github.com/canwhite/bun-php)** · `Bun` `PHP` · 高性能运行时 ·
+**[🚀 bff-store](https://github.com/canwhite/bff-store)** · `BFF` `Store` · BFF 存储层 ·
 
 **[📝 jssyntax](https://github.com/canwhite/jssyntax)** · `JS` `Python` · 跨语言语法糖 ·
 
