@@ -31,7 +31,7 @@ canwhite/
 ## 项目分类
 1. **Featured** - ProNovel, novel_gpt
 2. **Agent** - Krebs, AgentEval, Sandbox
-3. **Claude Code生态** - SimpleSpec, cc-session, cc-json-parser, cc-communication, cc-joint-test
+3. **Claude Code生态** - SimpleSpec, cc-session, cc-json-parser, cc-communication, cc-joint-test, zack-skills
 4. **LLM** - happy-llm-simple, qc-torch-study, qc_fine_tuning, langchain_deepseek, qc_notebooklm
 5. **AI应用** - qc-digital-human
 6. **iOS/Android** - 移动端框架
@@ -44,4 +44,5 @@ canwhite/
 - 访问: https://github.com/canwhite/canwhite
 
 ## 维护记录
+- 2026-07-13: 添加 zack-skills 到 Claude Code 生态分类
 - 2026-01-31: 初始化production.md

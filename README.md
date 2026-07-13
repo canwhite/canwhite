@@ -38,6 +38,8 @@
 
 **[🔗 cc-joint-test](https://github.com/canwhite/cc-joint-test)** · `Example` · 集成示例 ·
 
+**[🧰 zack-skills](https://github.com/canwhite/zack-skills)** · `Skills` `Workflow` · 工程工作流技能 · pre-mortem/post-mortem/diagnose ·
+
 ## 🧠 LLM & Deep Learning
 
 **[📖 happy-llm-simple](https://github.com/canwhite/happy-llm-simple)** · `LLM` `Tutorial` · 30分钟入门 ·
