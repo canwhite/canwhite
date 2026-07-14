@@ -44,8 +44,6 @@
 
 **[📖 happy-llm-simple](https://github.com/canwhite/happy-llm-simple)** · `LLM` `Tutorial` · 30分钟入门 ·
 
-**[🔥 qc-torch-study](https://github.com/canwhite/qc-torch-study)** · `PyTorch` `DL` · 深度学习 ·
-
 **[⚡ qc_fine_tuning](https://github.com/canwhite/qc_fine_tuning)** · `Fine-tune` `LoRA` · 模型微调 ·
 
 **[🦜 langchain_deepseek](https://github.com/canwhite/langchain_deepseek)** · `LangChain` `RAG` · Workflow 实现 ·
