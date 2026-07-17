@@ -50,6 +50,8 @@
 
 **[📓 qc_notebooklm](https://github.com/canwhite/qc_notebooklm)** · `NotebookLM` `RAG` · 文档问答 ·
 
+**[🔍 MicroRAG](https://github.com/canwhite/MicroRAG)** · `RAG` `Python` · 轻量级 RAG 系统 · 纯 Python 实现 · 无外部 ML 依赖 · InfoNCE 对比学习 ·
+
 ## ⚙️ 工具集
 
 **[🚀 bff-store](https://github.com/canwhite/bff-store)** · `BFF` `Store` · BFF 存储层 ·
